@@ -37,6 +37,7 @@
    (screen)
    ])
 
+;; Identical ... for now!
 (defn page-two []
   [:div
    [:h1 (:sketch-name @app-state)]
